@@ -1,6 +1,6 @@
 <div>
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=venom)
 </div>
 <div>
   <!--Body-->
@@ -46,7 +46,21 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunji0301)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunji0301)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+  ## 📡 Follow Me  
+<a href="https://velog.io/@um0114/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+</a>  
+
+<a href="https://www.instagram.com/imeunzzzi">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a>  
+
+<a href="mailto:forstudy.eunji@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
+  <br/>
 </div>
 ## Hi there 👋
 
