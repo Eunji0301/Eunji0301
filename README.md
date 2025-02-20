@@ -1,5 +1,6 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20Eunji's%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=200&section=header&text=💻%20Eunji’s%20Coding%20Playground!%20🎮&fontSize=30&fontColor=ffffff&animation=twinkling)
+
 
   <!--Body-->
   
@@ -40,7 +41,6 @@
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
-  <br/>
   
   ## 🤔 Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunji0301)](https://github.com/anuraghazra/github-readme-stats)
@@ -61,7 +61,6 @@
 </a>
 
   <br/>
-</div>
 
 
 <!--
