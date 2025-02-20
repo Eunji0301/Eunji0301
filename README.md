@@ -1,8 +1,6 @@
-<div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom)
-</div>
-<div>
+<!-- Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=200&section=header&text=Welcome%20to%20Eunji's%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn)
+
   <!--Body-->
   
   ## 👀 About Me
@@ -16,6 +14,8 @@
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--Java-->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
@@ -29,9 +29,9 @@
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--Spring-->
-  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <!--Spring Boot-->
-  <img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <br/>
   
   ### ETC
@@ -62,9 +62,10 @@
 
   <br/>
 </div>
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **Eunji0301/Eunji0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
