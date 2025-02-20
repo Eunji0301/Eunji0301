@@ -1,5 +1,5 @@
-<!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=200&section=header&text=💻%20Eunji’s%20Coding%20Playground!%20🎮&fontSize=30&fontColor=ffffff&animation=twinkling)
+<!--Header-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=200&section=header&text=Eunji’s%20Coding%20Playground!🎮&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&fontAlign=50&fontFamily=Nanum+Pen+Script)
 
 
   <!--Body-->
